@@ -1,0 +1,5 @@
+{
+  "name": "Contain Pilot",
+  "description": "Landing page and documentation for contain-pilot, a Rust CLI tool for orchestrating local LLMs via Docker.",
+  "requestFramePermissions": []
+}
